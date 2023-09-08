@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final contactBook = ContactBook();
+    //final contactBook = ContactBook();
     return Scaffold(
       appBar: AppBar(
         title: const Text('Contacts'),
